@@ -1,0 +1,21 @@
+{
+  "name": "billysreactportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gitPush": "git add . && git commit -m \"Updating Portfolio\" && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Protomancer/BillysReactPortfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Protomancer/BillysReactPortfolio/issues"
+  },
+  "homepage": "https://github.com/Protomancer/BillysReactPortfolio#readme"
+}
