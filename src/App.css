@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+.site-page-header {
+    border: 8px solid rgb(122, 171, 245);
+  }
+
+  .site-card-wrapper {
+    border: 6px solid rgb(122, 171, 245)
+  }

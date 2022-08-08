@@ -1,58 +1,34 @@
+import { Card, Col, Row , PageHeader} from 'antd';
 import React from 'react';
-import { Card, Row, Col, Icon, CardTitle} from 'react-materialize';
+import 'antd/dist/antd.css';
+import '../../App.css';
 
-export default function Blog() {
-  return (
-    <div>
-      <h1>Projects</h1>
-      <p>
-        
-        heres where my projects will go.
-      </p>
-        <Row>
-        <Col m={6} s={12}>
-        <Card actions={[<a key="1" href="#">This is a link</a>]}
-              closeIcon={<Icon>close</Icon>}
-              header={<CardTitle image="https://materializecss.com/images/sample-1.jpg" />}
-              horizontal
-              revealIcon={<Icon>more_vert</Icon>}>
-              Here is the standard card with a horizontal image.
+const App = () => (
+<div>
+<PageHeader
+    className="site-page-header"
+    title="Projects"
+    subTitle="Here are some of my current best projects."
+  />
+  <div className="site-card-wrapper">
+    <Row gutter={4}>
+      <Col span={8}>
+        <Card title="Card title" bordered={true}>
+          Card content
         </Card>
-        </Col>
-        </Row>
-        <Row>
-        <Col m={6} s={12}>
-        <Card actions={[<a key="1" href="#">This is a link</a>]}
-              closeIcon={<Icon>close</Icon>}
-              header={<CardTitle image="https://materializecss.com/images/sample-1.jpg" />}
-              horizontal
-              revealIcon={<Icon>more_vert</Icon>}>
-              Here is the standard card with a horizontal image.
+      </Col>
+      <Col span={8}>
+        <Card title="Card title" bordered={true}>
+          Card content
         </Card>
-        </Col>
-        </Row>
-        <Row>
-        <Col m={6} s={12}>
-        <Card actions={[<a key="1" href="#">This is a link</a>]}
-              closeIcon={<Icon>close</Icon>}
-              header={<CardTitle image="https://materializecss.com/images/sample-1.jpg" />}
-              horizontal
-              revealIcon={<Icon>more_vert</Icon>}>
-              Here is the standard card with a horizontal image.
+      </Col>
+      <Col span={8}>
+        <Card title="Card title" bordered={true}>
+          Card content
         </Card>
-        </Col>
-        </Row>
-        <Row>
-        <Col m={6} s={12}>
-        <Card actions={[<a key="1" href="#">This is a link</a>]}
-              closeIcon={<Icon>close</Icon>}
-              header={<CardTitle image="https://materializecss.com/images/sample-1.jpg" />}
-              horizontal
-              revealIcon={<Icon>more_vert</Icon>}>
-              Here is the standard card with a horizontal image.
-        </Card>
-        </Col>
-        </Row>
-    </div>
-  );
-}
+      </Col>
+    </Row>
+  </div>
+</div>
+);
+export default App;
