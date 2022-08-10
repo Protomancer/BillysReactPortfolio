@@ -1,9 +1,183 @@
 @import '~antd/dist/antd.css';
 
 .site-page-header {
-    border: 8px solid rgb(122, 171, 245);
+    color:black;
+    text-align: center;
+    font-size: xx-large;
+    
   }
+.site-card-wrapper {
+    text-align: center;
+    color: aliceblue;
+    
+  }
+.card-holder {
+    -webkit-text-fill-color: rgb(4, 4, 4);
+    -webkit-text-stroke-color: rgb(250, 248, 248);
+    -webkit-text-stroke-width: 1px;
+    font-size:xx-large;
+    text-align: center;
+    background: none;
+}
+.background-style {
+    background-color: slategray;
+}
+.footer {
+    justify-content: center;
+    padding-top: 10%;
+    
+}
+.project-card-one {
+    border-radius: 1rem;
+    background-image:url(./components/assets/noteTaker.png);
+    background-size:cover;
+    background-position: top;
+    background-color:cadetblue;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.project-card-two {
+    margin-top: 2rem;
+    border-radius: 1rem;
+    background-image: url(./components/assets/GitHub-Mark-120px-plus.png);
+    background-size:inherit;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color:gray;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.project-card-three {
+    margin-top: 2rem;
+    border-radius: 1rem;
+    background-image: url(./components/assets/GitHub-Mark-120px-plus.png);
+    background-size:inherit;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-color:gray;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.link-text {
+    -webkit-text-fill-color: rgb(243, 246, 248);
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: .1rem;
+    
+}
+.contact-card-one {
+    border: .1rem;
+    border-style: solid;
+    border-radius:1rem;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    top: 2rem;
+    background-image:url(./components/assets/github.png);
+    background-size: cover;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.contact-card-two {
+    border: .1rem;
+    border-style: solid;
+    border-radius:1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    top: 2rem;
+    background-image:url(./components/assets/linkedin.png);
+    background-size: cover;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.contact-card-three {
+    border: .1rem;
+    border-style: solid;
+    border-radius:1rem;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    top: 2rem;
+    background-image:url(./components/assets/insta.png);
+    background-size: cover;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.resume-card {
+    border: .1rem;
+    border-style: solid;
+    border-radius:1rem;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    top: 2rem;
+    background-image:url(./components/assets/road.jpg);
+    background-size: cover;
+    font-size: xx-large;
+    font-weight: bolder;
 
-  .site-card-wrapper {
-    border: 6px solid rgb(122, 171, 245)
-  }
+}
+
+.gallery-card-1 {
+    border: .1rem;
+    border-style: solid;
+    border-radius:1rem;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    top: 2rem;
+    background-image:url(./components/assets/road.jpg);
+    background-position: center;
+    background-size: 100%;
+}
+.gallery-card-2 {
+    border: .1rem;
+    border-style: solid;
+    border-radius:1rem;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    top: 2rem;
+    background-image:url(./components/assets/gallery/DSC_0877.jpg);
+    background-position: center;
+    background-size:100%;
+}
+.gallery-card-3 {
+    border: .1rem;
+    border-style: solid;
+    border-radius:1rem;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    top: 2rem;
+    background-image:url(./components/assets/gallery/DSC_0910.jpg);
+    background-position: center;
+    background-size: 100%;
+    
+}
+.gallery-card-4 {
+    border: .1rem;
+    border-style: solid;
+    border-radius:1rem;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    top: 2rem;
+    background-image:url(./components/assets/gallery/DSC_0927.jpg);
+    background-position: center;
+    background-size: 100%;
+   
+}
+.gallery-card-5 {
+    border: .1rem;
+    border-style: solid;
+    border-radius:1rem;
+    margin-top: 2rem;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+    top: 2rem;
+    background-image:url(./components/assets/gallery/DSC_0977.jpg);
+    background-position: center;
+    background-size: 100%;
+    
+}
