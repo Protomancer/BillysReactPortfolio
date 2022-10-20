@@ -20,7 +20,7 @@ const App = () => (
                 </a>
               </Card>
               <Card className='contact-card-three' bordered={false}>
-                <a className='link-text' href='https://www.instagram.com/stoneandbonesociety/' >
+                <a className='link-text' href='https://www.instagram.com/cultofstoneandbone/' >
                   My art page on Instagram
                 </a>
               </Card>
