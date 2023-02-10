@@ -14,12 +14,25 @@ Billy's React Portfolio is a single page static site designed with [React.js](ht
 3. Now that you have the file open in your code editor of choice, open your terminal in the main file and type {npm i} into the command line and hit enter. This should install all necessary packages. If it does not, please contact me via [GitHub](https://github.com/Protomancer) so that I can assist.
 4. Now to start the webpage simply type in {npm start}.
 
-
 ## How to use 
-The setup for the site is very basic. Each nav tab at the top of the screen takes you to a page with some info. It also has alot of links to check out and explore. Feel free to use the site to get in touch.
+
+- Navigating the site is kept simple with a persistent nav bar and easy to understand design. Feel free to check out any links and report any bugs you may encounter.  
 
 ## Credits
+
 - Scott "Billy" Pinkerton
-- UofA Coding Bootcamp
+
+### Toolkit
+
+![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+
 
 ## MIT License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
