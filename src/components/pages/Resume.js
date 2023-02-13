@@ -10,7 +10,7 @@ const App = () => (
     <Col span={12}>
         <div className='site-card-wrapper'>
               <Card className='resume-card' bordered={false}>
-                <a className='link-text' href='https://docs.google.com/document/d/19hbmR-4tVn06Be1joWxH3hboY3bOkfAVuHhiyec3-s4/edit?usp=sharing'>
+                <a className='link-text' href='https://docs.google.com/document/d/18wxkFEQLrOedUa6i3qGrtFuDcAycrJhvlW9P9jVsk88/edit?usp=sharing'>
                   My resume
                 </a>
               </Card>

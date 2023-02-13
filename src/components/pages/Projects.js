@@ -10,8 +10,8 @@ const App = () => (
     <Col span={12}>
         <div className='site-card-wrapper'>
               <Card className='project-card-one' bordered={false}>
-                <a className='link-text' href='https://note-taker-extravaganza.herokuapp.com/'>
-                  Note Taker App
+                <a className='link-text' href='https://github.com/matthewestes33/wildfireAQItracker'>
+                  Wildfire AQI Tracker
                 </a>
               </Card>
               <Card className='project-card-two' bordered={false}>
@@ -20,8 +20,8 @@ const App = () => (
                 </a>
               </Card>
               <Card className='project-card-three' bordered={false}>
-                <a className='link-text' href='https://github.com/Protomancer/Team-Profile-Generator' >
-                  In Terminal Team profile Generator
+                <a className='link-text' href='https://github.com/Protomancer/EXOPhoto' >
+                  EXOPhoto
                 </a>
               </Card>
         </div>          

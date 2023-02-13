@@ -29,7 +29,7 @@ const App = () => (
       bordered={false}
       style={{width: 600,height: 300}}>
         <p>
-          Email @ billybattlebones@gmail.com
+          Email: s.will.pinkerton@gmail.com
         </p>
     </Card>
   </Row>
