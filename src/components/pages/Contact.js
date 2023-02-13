@@ -19,11 +19,6 @@ const App = () => (
                   On linkedIn
                 </a>
               </Card>
-              <Card className='contact-card-three' bordered={false}>
-                <a className='link-text' href='https://www.instagram.com/studiostoneandbones/' >
-                  My art page on Instagram
-                </a>
-              </Card>
         </div>          
     </Col>
   </Row>

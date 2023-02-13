@@ -16,7 +16,7 @@ Billy's React Portfolio is a single page static site designed with [React.js](ht
 
 ## How to use 
 
-- Navigating the site is kept simple with a persistent nav bar and easy to understand design. Feel free to check out any links and report any bugs you may encounter.  
+- Navigate the website using the persistent nav bar at the top of the site. Check out the links and feel free to contact me via the contact page. 
 
 ## Credits
 
