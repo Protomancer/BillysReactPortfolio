@@ -9,7 +9,7 @@ Billy's React Portfolio is a single page static site designed with [React.js](ht
 
 ## Installation
 
-1. Copy the repo located on [GitHub](https://github.com/Protomancer/BillysReactPortfolio). You can find <>Code the button in the upper right corner of the files container, Use this to copy the page to your machine via [GitBash](https://git-scm.com/doc) or similar shell for git. 
+1. Copy the repo located on [GitHub](https://github.com/Protomancer/BillysReactPortfolio). You can find the <>Code  button in the upper right corner of the files container, Use this to copy the page to your machine via [GitBash](https://git-scm.com/doc) or similar shell for git. 
 2. Once the file is on your system you will need a code editing software such as [VScode](https://code.visualstudio.com/) to open the file.
 3. Now that you have the file open in your code editor of choice, open your terminal in the main file and type {npm i} into the command line and hit enter. This should install all necessary packages. If it does not, please contact me via [GitHub](https://github.com/Protomancer) so that I can assist.
 4. Now to start the webpage simply type in {npm start}.
