@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/BillysReactPortfolio/static/media/github.61195ab1.png"
   },
   {
-    "revision": "040a37f9ebfadbd098927dcabc43757a",
-    "url": "/BillysReactPortfolio/static/media/linkedin.040a37f9.png"
-  },
-  {
     "revision": "491ad1e0c092520859d22aeaf25e205c",
     "url": "/BillysReactPortfolio/static/media/insta.491ad1e0.png"
+  },
+  {
+    "revision": "040a37f9ebfadbd098927dcabc43757a",
+    "url": "/BillysReactPortfolio/static/media/linkedin.040a37f9.png"
   },
   {
     "revision": "01cf5ba1ae991a31a91e701a9bfab510",
